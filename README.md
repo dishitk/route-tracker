@@ -3,7 +3,7 @@ Route Tracker React Native App
 
 Workflow:
 1. User signs up or sing in using existing credentials. (Connected with MongoDB and password hashed and salted)
-![Signup_SignIn](../master/Signup_SignIn.png?raw=true)
+![Signup_SignIn](https://github.com/dishitk/route-tracker/blob/main/Signup_SignIn.png?raw=true)
 2. Track List Screen Appears. Here the user can see all the existing tracks recorded, if any.
 ![TrackList](../master/TrackList.png?raw=true)
 3. User can click on any existing track recorded and view the total route.
